@@ -1,0 +1,32 @@
+Places
+======
+* `Laboratoire Matière et Systèmes Complexes <http://www.msc.univ-paris-diderot.fr/>`_
+* `Center for Research and Interdisciplinarity <https://cri-paris.org/>`_
+* `Sainsbury Laboratory <https://www.slcu.cam.ac.uk/>`_ (Cambridge University, UK)
+* Team `Morpheo <http://morpheo.inrialpes.fr/>`_ at the `Laboratoire Jean Kuntzman <http://www-ljk.imag.fr/ljk_en.html>`_ (Inria Grenoble, France)
+
+People
+======
+
+At the MSC:
+
+* `Stéphane Douady <http://www.lps.ens.fr/~douady/>`_
+* `Alexis Peaucelle <https://sites.google.com/site/alexis0peaucelle/home>`_
+* `Julien Derr <http://www.msc.univ-paris-diderot.fr/spip.php?rubrique150>`_
+
+At the LJK:
+
+* `Franck Hétroy-Wheeler <http://icube-igg.unistra.fr/en/index.php/Franck_H%C3%A9troy-Wheeler>`_
+* `Julien Pansiot <http://julien.pansiot.org/>`_
+
+At the Sainsbury Laboratory:
+
+* `Raymond Wightman <https://www.slcu.cam.ac.uk/directory/wightman-raymond>`_
+
+More
+====
+* Project `Carambole <http://morpheo.inrialpes.fr/carambole/>`_: Our project with F. Hétroy-Wheeler and J. Pansiot to capture plant motions in 3D
+* GDR `PhyP <https://gdrphyp.wordpress.com/>`_: group of researchers interested in the Biophysics and Biomechanics of plants
+* GDR `MéPhy <https://blog.espci.fr/mephy/>`_: group of researchers interested in the Physics and Mechanics of Complex Systems
+* `Plants in Motion <http://plantsinmotion.bio.indiana.edu/>`_ : a collection of beautiful movies by Roger Hangarter
+* `Plant dynamics <http://www.msc.univ-paris-diderot.fr/~plant-dynamics/review/>`_: website of the team studying plant physics in the MSC lab

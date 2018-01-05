@@ -1,0 +1,79 @@
+Research experiences
+====================
+
+* 2014--2017: Ph.D. student
+	+ *Shape, rhythms and growth heterogeneities of a leaf*
+	+ Supervisors: `Stéphane Douady <http://www.lps.ens.fr/~douady/>`_, `Alexis Peaucelle <https://sites.google.com/site/alexis0peaucelle/home>`_ and `Julien Derr <http://www.msc.univ-paris-diderot.fr/spip.php?rubrique150>`_.
+	+ `Laboratoire Matière et Systèmes Complexes <http://www.msc.univ-paris-diderot.fr/>`_
+	
+* June -- Aug. 2013: Research intern
+	+ *Divisions, cell shape and planar polarity in an epithelial tissue*
+	+ Supervisors: Yohanns Bellaïche and Boris Guirao
+	+ `Bellaïche team <https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-bellaiche/>`_, Genetics and Developmental Biology Unit, Institut Curie
+	
+*  May -- July 2012: Research intern
+	+ *Spectrophotometry of Phobos and Mars on Rosetta pictures*
+	+ Supervisors: Sonia Fornasier and Luca Maltagliati
+	+ `LESIA <http://lesia.obspm.fr/>`_, Observatoire de Paris
+		
+Teaching
+========
+
+* 2016--2017: Teaching assistant
+	+ 64h of tutorial classes for first year students of medschool (PACES)
+	+ Mathematics for physics, Fluid mechanics, Electrostatics, Diffusion and Electricity
+	+ Université Paris Descartes
+	
+	
+Education
+=========
+	
+* 2013--2014: 2nd year of masters
+	+ Physics of Complex Systems
+	+ Univeristé Paris Diderot | UMPC | Université Paris Sud | ENS Cachan
+
+* 2011--2013: Bachelor and 1st year of masters
+	+ Fundamental Physics
+	+ Université Paris Diderot
+
+* 2009--2011:  "Classe préparatoire" 
+	+ Focus on physics, mathematics and chemistry 
+	+ 2-year intensive program preparing for the competitive entrance to highly selective institutions
+
+Technical and personal skills
+=============================
+
+* **Programming:** Matlab, Python, LateX, ImageJ
+
+* **Experimental techniques:** time-lapse photography, atomic force microscopy, immunostaining, basic histology, notions in confocal microscopy
+
+* **Languages:** French (mother tongue), English, Spanish (basic notions)
+	
+Publication list
+================
+
++ `Motions of leaves and stems, from growth to potential use <http://iopscience.iop.org/article/10.1088/1478-3975/aa5945>`_. M. Rivière, J. Derr, and S. Douady. *Physical Biology* (2017)	
+
++ `Modulation of junction tension by tumor suppressors and proto-oncogenes regulates cell-cell contacts <http://dev.biologists.org/content/143/4/623>`_. F. Bosveld, B. Guirao, Z. Wang, M. Rivière, I. Bonnet, F. Graner, and Y. Bellaïche.  *Development* (2016)
+
+*Articles in preparation:*
+
++ *Hook shape of growing leaves results from active regulation not self-buckling*. M. Rivière, Y. Corre, A. Peaucelle, J. Derr, and S. Douady.
++ *Growth and elasticity heterogeneities underlying leaf nutation*. M. Rivière, J. Derr, A. Peaucelle, and S. Douady.
+
+Communications
+==============
+
+* `PhyP <https://gdrphyp.wordpress.com/>`_ workshop, June 2017 (oral presentation)
+
+* Seminar at the `MSC <http://www.msc.univ-paris-diderot.fr/>`_ lab, Feb. 2017 (oral presentation)
+
+* `IJPB <http://www-ijpb.versailles.inra.fr/en/index.htm>`_--`MSC <http://www.msc.univ-paris-diderot.fr/>`_ meeting, Dec. 2016 (oral presentation)
+
+* `Paris Biological Physics Community Day <http://www.lcqb.upmc.fr/parisyoung/2016/>`_, Oct. 2016 (oral presentation)
+
+* `8th Plant Biomechanics International Conference <https://www.agr.nagoya-u.ac.jp/~butsuri/pbm8/index.html>`_, Dec. 2015 (short talk + poster)
+
+* `PhyP <https://gdrphyp.wordpress.com/>`_ workshop, Oct. 2015 (oral presentation)
+
+* `MéPhy <https://blog.espci.fr/mephy/>`_ workshop, Oct. 2014 (oral presentation)
